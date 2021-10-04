@@ -1,4 +1,4 @@
-# IBM Cloud secure RedHat OpenShift cluster
+# Secured RedHat OpenShift cluster on VPC infrastructure
 
 Use this IBM Cloud Provider Plug-in for Terraform template to create a Red Hat OpenShift on IBM Cloud cluster with certain secure settings enabled by default, such as the following.
 
